@@ -1,2 +1,2 @@
-# Rock-paper-scissors-on-FPGA
-Implementation of a rock-paper-scissors game on an FPGA board using Verilog HDL. 
+# 基于FPGA开发板的石头剪子布对战游戏
+用 Verilog HDL来设计实现的猜拳游戏，详见《猜拳游戏的设计与实现》
